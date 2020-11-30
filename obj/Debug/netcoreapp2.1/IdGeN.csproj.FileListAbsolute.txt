@@ -1,0 +1,11 @@
+C:\Users\Mohamed El Ghazali\Desktop\IdGeN\bin\Debug\netcoreapp2.1\IdGeN.deps.json
+C:\Users\Mohamed El Ghazali\Desktop\IdGeN\bin\Debug\netcoreapp2.1\IdGeN.runtimeconfig.json
+C:\Users\Mohamed El Ghazali\Desktop\IdGeN\bin\Debug\netcoreapp2.1\IdGeN.runtimeconfig.dev.json
+C:\Users\Mohamed El Ghazali\Desktop\IdGeN\bin\Debug\netcoreapp2.1\IdGeN.dll
+C:\Users\Mohamed El Ghazali\Desktop\IdGeN\bin\Debug\netcoreapp2.1\IdGeN.pdb
+C:\Users\Mohamed El Ghazali\Desktop\IdGeN\obj\Debug\netcoreapp2.1\IdGeN.csprojAssemblyReference.cache
+C:\Users\Mohamed El Ghazali\Desktop\IdGeN\obj\Debug\netcoreapp2.1\IdGeN.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed El Ghazali\Desktop\IdGeN\obj\Debug\netcoreapp2.1\IdGeN.AssemblyInfoInputs.cache
+C:\Users\Mohamed El Ghazali\Desktop\IdGeN\obj\Debug\netcoreapp2.1\IdGeN.AssemblyInfo.cs
+C:\Users\Mohamed El Ghazali\Desktop\IdGeN\obj\Debug\netcoreapp2.1\IdGeN.dll
+C:\Users\Mohamed El Ghazali\Desktop\IdGeN\obj\Debug\netcoreapp2.1\IdGeN.pdb
